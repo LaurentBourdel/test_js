@@ -1,4 +1,4 @@
-# THE HACKING PROJECT DAY 4
+# JavaScript - Exercices basiques
 
 > Bonjour: Créé un script script_1.js qui affichera "Bonjour, monde !" dans la console.
 
